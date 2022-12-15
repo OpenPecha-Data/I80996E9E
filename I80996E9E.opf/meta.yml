@@ -1,0 +1,25 @@
+id: I80996E9E
+default_language: en-us
+source: ''
+initial_creation_type: tmx
+imported: 2022-12-15 07:43:07.943390+00:00
+last_modified: 2022-12-15 07:43:07.943396+00:00
+source_metadata:
+  creationtool: InterText
+  creationtoolversion: '1.0'
+  datatype: PlainText
+  segtype: block
+  adminlang: en-us
+  srclang: bo
+  o-tmf: XML aligned text
+  eft-text-id: UT22084-072-008
+  title: Toh_308-Questions%20Regarding%20Death%20and%20Transmigration-v2
+bases:
+  42E8:
+    source_metadata: null
+    order: 1
+    base_file: 42E8.txt
+    statistics: null
+copyright:
+  status: Unknown
+  notice: ''
